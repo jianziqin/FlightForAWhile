@@ -25,7 +25,7 @@ public class HttpRequest {
 
 	public static void main(String args[])
 	{
-		//System.out.println(HttpResponse_Get());
+		System.out.println(HttpResponse_Get());
 	}
 	
 	public static String HttpResponse_Get()
